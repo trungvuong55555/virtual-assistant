@@ -1,0 +1,11 @@
+scikit-learn
+numpy
+pandas
+keras
+tensorflow
+pyvi
+pyttsx3
+selenium
+webdriver-manager
+wikipedia
+matplotlib
